@@ -1,5 +1,7 @@
 Funny Button
 
+** Add the file sound.wav to degug  **
+
 How to start:
 1) choose the speed in the left;
 2) choose the amount of balls in the right;
@@ -11,4 +13,3 @@ You should click the button before it moves. If you click the button you score w
 How to quit:
 1) lose the game;
 2) press cross in the top right corner.
-
